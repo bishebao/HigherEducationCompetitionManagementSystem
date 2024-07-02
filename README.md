@@ -1,0 +1,2 @@
+# HigherEducationCompetitionManagementSystem
+ 基于SpringBoot Vue高校竞赛管理系统
